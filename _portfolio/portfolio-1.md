@@ -1,3 +1,4 @@
+---
 title: "Arduino LM35 Temperature Monitor"
 excerpt: "He thong giam sat nhiet do LM35 voi Arduino"
 collection: portfolio

@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -6,8 +7,8 @@ author_profile: true
 
 ## Hoc van
 **Hoc vien Cong nghe Buu chinh Vien thong (PTIT)**
-- Nganh: IoT
-- Thoi gian: 2023 - 2026
+- Nganh: [IoT]
+- Thoi gian: 2023 - nay
 - GPA: [2.8 / 4.0]
 
 ## Ky nang ky thuat
